@@ -1,8 +1,8 @@
-# 🚘 Responsive Furniture Website With Dark/Light Mode
+# 🪑 Responsive Furniture Website With Dark/Light Mode
 
 ## [Watch it on youtube](https://youtu.be/QStzfcpcUWQ)
 
-### 🚘 Responsive Furniture Website With Dark/Light Mode
+### 🪑 Responsive Furniture Website With Dark/Light Mode
 
 - Responsive Furniture website Using HTML CSS & JavaScript.
 - Dark and Light Mode Theme.
